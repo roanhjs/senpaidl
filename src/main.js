@@ -1,4 +1,4 @@
-import { chromium } from "playwright";
+import { chromium } from "playwright-chromium";
 
 export async function senpaidl({ urlRaw }) {
   const browser = await chromium.launch({ headless: true });
