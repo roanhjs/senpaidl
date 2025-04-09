@@ -15,7 +15,7 @@
   "dependencies": {
     "express": "^5.1.0",
     "pdfkit": "^0.16.0",
-    "playwright-chromium": "^1.51.1",
+    "playwright": "^1.51.1",
     "sharp": "^0.34.1"
   }
 }
